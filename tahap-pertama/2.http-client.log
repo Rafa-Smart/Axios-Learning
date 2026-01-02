@@ -1,0 +1,28 @@
+
+penjelasnnya
+https://chatgpt.com/c/694932dc-67bc-8320-92cb-992a7032b42f
+
+1.
+jadi pertama kita harus buat dulu objek dari si axiosnya
+Hal pertama yang perlu kita lakukan untuk menggunakan Axios adalah membuat
+HTTP Client
+Untuk membuat HTTP Client, kita bisa menggunakan object Axios di
+menggunakan create function di package axios
+
+jadi axios itu adalah http client
+
+2.
+// Saat kita membuat object Axios, kita bisa menggunakan default Request Config
+// Default Request Config adalah konfigurasi default yang akan digunakan ketika
+// membuat HTTP Request
+// https://axios-http.com/docs/req_config
+
+3.
+Axios adalah library untuk HTTP Client, oleh karena itu pastinya kita gunakan
+untuk melakukan HTTP Request
+Ketika melakukan HTTP Request, kita pasti akan menentukan HTTP Method
+yang akan kita gunakan
+Axios menggunakan nama method sebagai HTTP Method nya
+Kita bisa menggunakan nama-nama method sesuai dengan jenis HTTP Method
+dalam lowercase pada object Axios
+https://axios-http.com/docs/instance

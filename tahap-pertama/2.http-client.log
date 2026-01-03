@@ -26,3 +26,5 @@ Axios menggunakan nama method sebagai HTTP Method nya
 Kita bisa menggunakan nama-nama method sesuai dengan jenis HTTP Method
 dalam lowercase pada object Axios
 https://axios-http.com/docs/instance
+
+test
